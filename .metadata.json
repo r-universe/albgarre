@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bioinactivation",
+    "oncran": true
+  },
+  {
+    "package": "bioOED",
+    "oncran": true
+  }
+]

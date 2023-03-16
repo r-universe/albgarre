@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bioinactivation"]
+	path = bioinactivation
+	url = https://github.com/albgarre/bioinactivation
+	shallow = true
+	registered = true
+[submodule "bioOED"]
+	path = bioOED
+	url = https://github.com/albgarre/biooed
+	shallow = true
+	registered = true
