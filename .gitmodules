@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FSK2R"]
+	path = FSK2R
+	url = https://github.com/cran/FSK2R
+[submodule "bioOED"]
+	path = bioOED
+	url = https://github.com/albgarre/biooed
 [submodule "biogrowth"]
 	path = biogrowth
 	url = https://github.com/cran/biogrowth
 [submodule "bioinactivation"]
 	path = bioinactivation
 	url = https://github.com/albgarre/bioinactivation
-[submodule "bioOED"]
-	path = bioOED
-	url = https://github.com/albgarre/biooed
-[submodule "FSK2R"]
-	path = FSK2R
-	url = https://github.com/cran/FSK2R
