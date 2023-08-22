@@ -10,7 +10,7 @@
 	url = https://github.com/albgarre/biooed
 [submodule "biogrowth"]
 	path = biogrowth
-	url = https://github.com/cran/biogrowth
+	url = https://github.com/albgarre/biogrowth
 [submodule "bioinactivation"]
 	path = bioinactivation
 	url = https://github.com/albgarre/bioinactivation
